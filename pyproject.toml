@@ -159,6 +159,7 @@ src = ["src", "tests"]
 extend-exclude = [
     ".venv",
     "build",
+    "v4-agent",
     "dist",
     "*.egg-info",
 ]
